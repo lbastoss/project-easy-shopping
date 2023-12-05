@@ -5,62 +5,27 @@
     font-family: 'Oswald', sans-serif;
 }
 
-
-h1 {
-    color: #5D5D7D;
-    font-size: 70px;
-    font-weight: 400;
-    line-height: 80px; 
-    width: 368px;
-
+.wrapper {
+    height: 100vh;
+    width: 100vw;
 }
 
-p{
-    width: 540px;
-    color: #5D5D7D;
-    font-size: 28px;
-    font-weight: 400;
-    line-height: 48px;
-}
-
-button {
-    width: 269px;
-    height: 62px;
-    flex-shrink: 0;
-    background-color: #9499EA;
-    border:none; 
-    border-radius: 40px;
-    color: white;
-    font-size: 24px;
-}
-
-div {
-    margin: 381px 0 123px 136px; 
+.container-left{
     display: inline-block;
     width: 60%;
 }
 
-img {
-    width: 273px;
+.container-right {
     display: inline-block;
-
+    background-color: rgba(93, 93, 125 , 0.16); 
+    height: 100vh;
+    width: 40%;
+    position: absolute;
 }
 
-p{
-    margin-top: 15px;
-    margin-bottom: 15px;
-    width: 540px;
-    font-size: 28px;
-    color: #5D5D7D;
-    line-height: 48px;
-    font-size: 28px; 
-}
-
-.links-menu {
-    color: #5D5D7D;
-    font-size: 28px;
-    font-weight: 400;
-    margin: 24px 41px 836px 57px; 
+img { 
     position: relative;
-    top: 15px; 
+    top: 25%; 
+    right: 130px;
+
 }
