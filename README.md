@@ -11,5 +11,6 @@
 <p float="left">
 
  <img src="https://github.com/lbastoss/projeto-figma-easy-shopping/blob/main/assets/desktop.png" alt="projetc-descktop" width="700"/>
-
+<br>
+<br>
  <img src="https://github.com/lbastoss/projeto-figma-easy-shopping/blob/main/assets/Shopping%20via%20Mobile%20-%20mobile.png" width="200" /> 
