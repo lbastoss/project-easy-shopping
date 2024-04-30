@@ -1,4 +1,16 @@
+[pt-BR]
 <h1 align="center">
+  Easy Shopping</h1>
+<br>
+<br>
+<h2> Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a> e nesse projeto foram utilizados as tecnologias HTML e CSS e também aplicamos a responsividade para diversos dispositivos. </h2>
+<br>
+<br>
+
+
+
+
+[en-US]<h1 align="center">
   Easy Shopping</h1>
 <br>
 <br>
